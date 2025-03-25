@@ -19,11 +19,11 @@ This project does not require external dependencies beyond standard Java librari
 
 1. Compile the Java files:
    ```sh
-   javac *.java
+   javac TestMandel.java
    ```
 2. Run the Mandelbrot generator:
    ```sh
-   java Mandel
+   java TestMandel
    ```
 3. The generated fractal image will be saved as `Mandel.png` in the current directory.
 
